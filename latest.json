@@ -1,0 +1,37 @@
+{
+  "app": "DeskMate",
+  "assets": [
+    {
+      "kind": "installer",
+      "mirror_url": "https://gitee.com/LZTZT/deskmate-release/releases/download/1.1.21/DeskMate-Setup.exe",
+      "name": "DeskMate-Setup.exe",
+      "sha256": "91cac9d60fc1173310c3ab32f9d492216e6c5df67cb5ef2d1accfce8b6788068",
+      "size": 34366675,
+      "url": "https://github.com/Aelisa/deskmate-release/releases/download/1.1.21/DeskMate-Setup.exe"
+    },
+    {
+      "kind": "portable",
+      "mirror_url": "https://gitee.com/LZTZT/deskmate-release/releases/download/1.1.21/DeskMate-Portable.exe",
+      "name": "DeskMate-Portable.exe",
+      "sha256": "ece76309e8d0444874d8e80d902bfb2f33a53c066bf2fe2e51287d1246e7240b",
+      "size": 47503955,
+      "url": "https://github.com/Aelisa/deskmate-release/releases/download/1.1.21/DeskMate-Portable.exe"
+    }
+  ],
+  "channel": "stable",
+  "min_app_version": "1.1.21",
+  "min_skill_version": "1.0.4",
+  "notes_url": "https://github.com/Aelisa/deskmate-release/releases/tag/1.1.21",
+  "released_at": "2026-11-11T14:01:26+08:00",
+  "rollout": {
+    "exclude_below": "",
+    "percent": 100
+  },
+  "schema": 1,
+  "signature": {
+    "alg": "none",
+    "key_id": "",
+    "sig": ""
+  },
+  "version": "1.1.21"
+}

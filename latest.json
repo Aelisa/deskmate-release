@@ -3,26 +3,26 @@
   "assets": [
     {
       "kind": "installer",
-      "mirror_url": "https://gitee.com/LZTZT/deskmate-release/releases/download/1.1.22/DeskMate-Setup.exe",
+      "mirror_url": "",
       "name": "DeskMate-Setup.exe",
-      "sha256": "991d1d79e7418973cf2259c6b2b5686728ccec2e7de3b27be25ea03e2338b849",
-      "size": 34368322,
-      "url": "https://github.com/Aelisa/deskmate-release/releases/download/1.1.22/DeskMate-Setup.exe"
+      "sha256": "6bddebb5c5b33d904de3e616d4622baf309c8a19e5215725ab6a2ce59f7dfa79",
+      "size": 33716115,
+      "url": "https://github.com/Aelisa/deskmate-release/releases/download/1.1.23/DeskMate-Setup.exe"
     },
     {
       "kind": "portable",
-      "mirror_url": "https://gitee.com/LZTZT/deskmate-release/releases/download/1.1.22/DeskMate-Portable.exe",
+      "mirror_url": "",
       "name": "DeskMate-Portable.exe",
-      "sha256": "79bb5de2f63254ee9072d3e17b522584bf43229b0828910978ce8c093af66cf9",
-      "size": 47504315,
-      "url": "https://github.com/Aelisa/deskmate-release/releases/download/1.1.22/DeskMate-Portable.exe"
+      "sha256": "09f7da8432e07d686a9bc50f2439605b3d430d0029a9415f57b59d48a3ba3489",
+      "size": 46908243,
+      "url": "https://github.com/Aelisa/deskmate-release/releases/download/1.1.23/DeskMate-Portable.exe"
     }
   ],
   "channel": "stable",
   "min_app_version": "1.1.21",
   "min_skill_version": "1.0.4",
-  "notes_url": "https://github.com/Aelisa/deskmate-release/releases/tag/1.1.22",
-  "released_at": "2026-11-11T14:55:39+08:00",
+  "notes_url": "https://github.com/Aelisa/deskmate-release/releases/tag/1.1.23",
+  "released_at": "2026-11-13T14:18:32+08:00",
   "rollout": {
     "exclude_below": "",
     "percent": 100
@@ -33,5 +33,5 @@
     "key_id": "",
     "sig": ""
   },
-  "version": "1.1.22"
+  "version": "1.1.23"
 }

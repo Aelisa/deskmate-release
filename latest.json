@@ -5,16 +5,16 @@
       "kind": "installer",
       "mirror_url": "",
       "name": "DeskMate-Setup.exe",
-      "sha256": "9e8ed7162d30dc461ada6abda74d081260d881c9deba8d0ed765b23ab7252940",
-      "size": 34174498,
+      "sha256": "cd174e3c38df30d91b57c81026cea56de091ba55052174efa4d9cb652bd0d493",
+      "size": 34166235,
       "url": "https://github.com/Aelisa/deskmate-release/releases/download/1.1.24/DeskMate-Setup.exe"
     },
     {
       "kind": "portable",
       "mirror_url": "",
       "name": "DeskMate-Portable.exe",
-      "sha256": "f6b54d456e8b4445fd73e28ccadbb3f2a9eb8fc379e5a93cf6206a5065665261",
-      "size": 47561325,
+      "sha256": "eb30e4120055e310fe574ded02a494dbdb6ba5977d611cb2c96b8dd0cedbe364",
+      "size": 47687727,
       "url": "https://github.com/Aelisa/deskmate-release/releases/download/1.1.24/DeskMate-Portable.exe"
     }
   ],
@@ -22,7 +22,7 @@
   "min_app_version": "1.1.21",
   "min_skill_version": "1.0.4",
   "notes_url": "https://github.com/Aelisa/deskmate-release/releases/tag/1.1.24",
-  "released_at": "2026-11-13T14:44:07+08:00",
+  "released_at": "2026-11-13T15:17:33+08:00",
   "rollout": {
     "exclude_below": "",
     "percent": 100

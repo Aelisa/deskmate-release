@@ -3,26 +3,26 @@
   "assets": [
     {
       "kind": "installer",
-      "mirror_url": "https://gitee.com/LZTZT/deskmate-release/releases/download/1.1.28/DeskMate-Setup.exe",
+      "mirror_url": "https://gitee.com/LZTZT/deskmate-release/releases/download/1.1.29/DeskMate-Setup.exe",
       "name": "DeskMate-Setup.exe",
-      "sha256": "5b374497597f97a36d76475d87de716782e9c4d4f920d894e69934548b41914f",
-      "size": 34177708,
-      "url": "https://github.com/Aelisa/deskmate-release/releases/download/1.1.28/DeskMate-Setup.exe"
+      "sha256": "3973fa2810d0cc3946dd3266e309f9f446a556a058462c3cf3b169380a2f61dc",
+      "size": 34177679,
+      "url": "https://github.com/Aelisa/deskmate-release/releases/download/1.1.29/DeskMate-Setup.exe"
     },
     {
       "kind": "portable",
-      "mirror_url": "https://gitee.com/LZTZT/deskmate-release/releases/download/1.1.28/DeskMate-Portable.exe",
+      "mirror_url": "https://gitee.com/LZTZT/deskmate-release/releases/download/1.1.29/DeskMate-Portable.exe",
       "name": "DeskMate-Portable.exe",
-      "sha256": "c3951eda0dcfc4262261966c13fad2a4c0bb6064be6fb5c463810c5064179e9c",
-      "size": 47700946,
-      "url": "https://github.com/Aelisa/deskmate-release/releases/download/1.1.28/DeskMate-Portable.exe"
+      "sha256": "14da0d2d0299cefcebac87ed6ccba5f03931921982c09e7d65760baf7bf47e84",
+      "size": 47702477,
+      "url": "https://github.com/Aelisa/deskmate-release/releases/download/1.1.29/DeskMate-Portable.exe"
     }
   ],
   "channel": "stable",
   "min_app_version": "1.1.21",
-  "min_skill_version": "1.2.1",
-  "notes_url": "https://github.com/Aelisa/deskmate-release/releases/tag/1.1.28",
-  "released_at": "2026-11-17T15:58:11+08:00",
+  "min_skill_version": "1.2.2",
+  "notes_url": "https://github.com/Aelisa/deskmate-release/releases/tag/1.1.29",
+  "released_at": "2026-11-18T13:57:08+08:00",
   "rollout": {
     "exclude_below": "",
     "percent": 100
@@ -33,5 +33,5 @@
     "key_id": "",
     "sig": ""
   },
-  "version": "1.1.28"
+  "version": "1.1.29"
 }
